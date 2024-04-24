@@ -28,6 +28,13 @@ Bem-vindo ao meu perfil do GitHub! Sou estudante de tecnologia apaixonada por ap
 
 - 📫 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelrimymbb@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelrimy/)
 
+
+<div id="fun-facts">
+  <h2>Fun Facts</h2>
+  <p>⚡ Fun fact-1: Fui professora de português nos ensinos fundamental e médio por mais de 10 anos e de francês para crianças por 3 anos.</p>
+  <p>⚡ Fun fact-2: Amo astrologia e teorias para autoconhecimento.</p>
+</div>
+
 ---
 
 <div>
@@ -35,9 +42,5 @@ Bem-vindo ao meu perfil do GitHub! Sou estudante de tecnologia apaixonada por ap
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelrimy&theme=neon" />
 </div>
 
----
 
-⚡ Fun fact-1: Fui professora de português nos ensinos fundamental e médio por mais de 10 anos e de francês para crianças por 3 anos.
-
-⚡ Fun fact-2: Amo astrologia e teorias para autoconhecimento.
 
