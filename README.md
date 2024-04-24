@@ -1,7 +1,3 @@
-## Oiii, eu me chamo Kelrimy 👋
-😄 ou Kel, se preferir.
-😄 ela/dela.
-
 <!--
 **kelrimy/Kelrimy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,17 +12,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Oiii, eu me chamo Kelrimy 👋
+😄 ou Kel, se preferir.
+😄 ela/dela.
 
-Bem-vindo ao meu perfil do GitHub! Sou estudante de tecnologia apaixonada por aprender e compartilhar conhecimentos e que está em busca de um estágio pra ingressar na área.
+Bem-vindo ao meu perfil do GitHub! Sou estudante de tecnologia, apaixonada por aprender e compartilhar conhecimentos e em busca de um estágio pra ingressar na área.
 
-- 🌱 Atualmente estou estudando as seguintes linguagens: 
-  <img height="20mm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img height="20mm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img height="20mm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img height="20mm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img height="20mm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<div id="estudando">
+  <h2>Estudando</h2>
+  <p>
+    <img height="35mm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
+    <img height="35mm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" />
+    <img height="35mm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" />
+    <img height="35mm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" />
+    <img height="35mm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" />
+  </p>
+</div>
 
-- 📫 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelrimymbb@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelrimy/)
+
+
+<div id="contatos">
+  <h2>Contatos</h2>
+  <p>
+     <a href="mailto:kelrimymbb@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+      </a>
+    <a href="https://www.linkedin.com/in/kelrimy/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
+</div>
+
 
 
 <div id="fun-facts">
