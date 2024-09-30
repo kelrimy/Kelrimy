@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 😄 ou Kel, se preferir.
 😄 ela/dela.
 
-Bem-vindo ao meu perfil do GitHub! Sou estudante de tecnologia, apaixonada por aprender e compartilhar conhecimentos e em busca de um estágio pra ingressar na área.
+Bem-vindo ao meu perfil do GitHub! Sou estudante de Gestão de Tecnologia da Informação, apaixonada por tecnologia e inovação. Estou sempre em busca de aprender novas habilidades e compartilhar conhecimentos. Atualmente, busco uma oportunidade de estágio para aplicar meus conhecimentos e crescer na área de tecnologia.
+
 
 <div id="estudando">
   <h2>Estudando</h2>
@@ -47,7 +48,7 @@ Bem-vindo ao meu perfil do GitHub! Sou estudante de tecnologia, apaixonada por a
 
 <div id="fun-facts">
   <h2>Fun Facts</h2>
-  <p>⚡ Fun fact-1: Fui professora de português nos ensinos fundamental e médio por mais de 10 anos e de francês para crianças por 3 anos.</p>
+  <p>⚡ Fun fact-1: Fui professora de português nos ensinos fundamental e médio por mais de 10 anos e de francês por alguns anos.</p>
   <p>⚡ Fun fact-2: Amo astrologia e teorias para autoconhecimento.</p>
 </div>
 
