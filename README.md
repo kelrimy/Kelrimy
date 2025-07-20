@@ -25,7 +25,7 @@ Bem-vindo ao meu perfil do GitHub! Sou estudante de Gestão de Tecnologia da Inf
     <img height="35mm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
     <img height="35mm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" />
     <img height="35mm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" />
-    <img height="35mm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" /> 
+    <!-- <img height="35mm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" /> -->
     <img height="35mm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" />
   </p>
 </div>
