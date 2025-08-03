@@ -13,27 +13,45 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Oiii, eu me chamo Kelrimy 👋
-😄 ou Kel, se preferir.
+😄 ou Kel, se preferir.  
 😄 ela/dela.
 
-Bem-vindo ao meu perfil do GitHub! Sou estudante de Gestão de Tecnologia da Informação, apaixonada por tecnologia e inovação. Estou sempre em busca de aprender novas habilidades e compartilhar conhecimentos. Atualmente, busco uma oportunidade de estágio para aplicar meus conhecimentos e crescer na área de tecnologia.
+Bem-vinda(o) ao meu perfil do GitHub!
 
+Sou estudante de **Gestão de Tecnologia da Informação** e estagiária na área de **Análise de Produto**, onde atuo com plataformas digitais e ferramentas como **Jira**, **Zoho** e **Figma**, acompanhando demandas técnicas e organizacionais.
+
+Atualmente, também participo da **Residência em TIC - Ciência de Dados**, onde estou desenvolvendo habilidades práticas em **Python**, **Pandas**, **visualização de dados**, **modelagem estatística**, além de **projetos com inteligência artificial utilizando Microsoft Azure**.
+
+📌 Me interesso por áreas com **curva de aprendizado eficiente**, que permitam **impacto real** e crescimento na área de **dados, produto e tecnologia**.
+
+---
 
 <div id="estudando">
-  <h2>Estudando</h2>
+  <h2>🔧 Estudando</h2>
   <p>
     <img height="35mm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
+    <img height="35mm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" />
     <img height="35mm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" />
     <img height="35mm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" />
-    <!-- <img height="35mm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" /> -->
     <img height="35mm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" />
+    <img height="35mm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" />
   </p>
 </div>
 
+---
 
+<div id="repositórios">
+  <h2>📁 Projetos em destaque</h2>
+  <ul>
+    <li><a href="https://github.com/kelrimy/residencia-ciencia-de-dados">Residência TIC – Ciência de Dados</a>: Documentação das oficinas com código e análise de dados.</li>
+    <!-- Adicione mais projetos quando quiser -->
+  </ul>
+</div>
+
+---
 
 <div id="contatos">
-  <h2>Contatos</h2>
+  <h2>📫 Contatos</h2>
   <p>
      <a href="mailto:kelrimymbb@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -44,20 +62,18 @@ Bem-vindo ao meu perfil do GitHub! Sou estudante de Gestão de Tecnologia da Inf
   </p>
 </div>
 
-
+---
 
 <div id="fun-facts">
-  <h2>Fun Facts</h2>
-  <p>⚡ Fun fact-1: Fui professora de português nos ensinos fundamental e médio por mais de 10 anos e de francês por alguns anos.</p>
-  <p>⚡ Fun fact-2: Amo astrologia e teorias para autoconhecimento.</p>
+  <h2>✨ Fun Facts</h2>
+  <p>⚡ Fui professora de português e de francês.</p>
+  <p>⚡ Amo astrologia e teorias para autoconhecimento.</p>
+  <p>⚡ Estou aprendendo a dançar forró.</p>
 </div>
 
 ---
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kelrimy&theme=neon" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelrimy&theme=neon" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kelrimy&theme=neon&show_icons=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelrimy&theme=neon&layout=compact" />
 </div>
-
-
-
